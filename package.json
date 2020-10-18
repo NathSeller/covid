@@ -17,7 +17,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3"
   },
-  "homepage": "github.com/NathSeller/covid",
+  "homepage": "https://nathseller.github.io/covid/",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
